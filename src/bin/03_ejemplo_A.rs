@@ -3,14 +3,14 @@ fn doblar(x: i32) -> i32 {
 }
 
 
-fn main() {
-    let n = 5;
+// fn main() {
+//     let n = 5;
     
-    let resultado = doblar(n);
+//     let resultado = doblar(n);
 
-    println!("{n}");          // ✅ funciona, n sigue siendo 5
-    println!("{resultado}");  // 10
-}
+//     println!("{n}");          // ✅ funciona, n sigue siendo 5
+//     println!("{resultado}");  // 10
+// }
 
 //=====================
 
