@@ -1,3 +1,7 @@
+#![allow(unused)]
+use std::alloc;
+
+
 fn doblar(x: i32) -> i32 {
     x * 2
 }

@@ -1,3 +1,4 @@
+#![allow(unused)]
 fn main() {
     let mut v_nuevo = Vec::new(); //hay que indicar tipo si está vácio     
     v_nuevo.push(60);

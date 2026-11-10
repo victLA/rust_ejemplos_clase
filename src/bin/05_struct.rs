@@ -1,5 +1,7 @@
+#![allow(unused)]
 #[derive(Debug)]
 #[allow(dead_code)]
+
 
 struct Persona {
     nombre: String,
