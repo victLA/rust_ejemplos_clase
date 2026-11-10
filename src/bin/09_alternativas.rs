@@ -1,5 +1,5 @@
 fn main() {
-    let mut x = 5;
+    let mut x = -5;
 
     if x > 10 {
         x += 2;
@@ -15,10 +15,13 @@ fn main() {
         x = 40;
         x
     } else {
-        0
+        print!("adios");
+        let z = 27;
+        x = 40;
+        x
     };
 
-    println!("{result}");
+    println!(" - {result} -");
 
     let number = 5;
     let result = if number < 10 { "Too small" } else { "100" };
