@@ -23,6 +23,5 @@ fn main() {
         println!("{segundos} segundos para el despegue...");
         segundos -= 1;
     }
-    println!("¡Despegue! 🚀");
-    
+    println!("¡Despegue! 🚀");    
 }
